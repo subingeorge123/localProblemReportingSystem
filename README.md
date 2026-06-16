@@ -52,8 +52,8 @@ A microservices-based web application developed using Django for reporting and m
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/<username>/<repository-name>.git
-cd <repository-name>
+git clone https://github.com/subingeorge123/localProblemReportingSystem.git
+cd localProblemReportingSystem
 ```
 
 ### Create Virtual Environment
